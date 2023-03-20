@@ -1,0 +1,6 @@
+python 3.9+ (idk, i use 3.10)
+torch + cuda
+torchvision + cuda
+numpy
+
+dataset from https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset?datasetId=1408&sortBy=voteCount
